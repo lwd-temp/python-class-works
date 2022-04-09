@@ -26,5 +26,5 @@ print(变量一)
 打印("您好！", n1)
 打印(变量一)
 
-print(i_am_not_exist)  # 打印不存在的变量
+# print(i_am_not_exist)  # 打印不存在的变量
 # NameError: name 'i_am_not_exist' is not defined
